@@ -1,3 +1,20 @@
+# WeatherApp with React-Native
+
+
+
+<img src="https://github.com/Antonio1138/weatherReactNative/blob/master/weatherApp.png" align=center />
+
+## Proyecto creado con la librería React-Native
+- Desarrollado con Visual Studio Code
+- Válido para plataforma Android e IOs
+- Se ha puesto en práctica el uso de API, desarrollo por componentes, y eso de 'props' y 'states'
+- Para ejecutar el proyecto, se recomienda seguir la sección "Guide"
+
+### ¿En qué consiste?
+- Aplicación que nos permite introducir una capital y nos muestra el tiempo atmosférico y los grados de temperatura, acompañándolo con una imagen acorde al tiempo mostrado.
+
+## Guide
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
